@@ -12,8 +12,6 @@ Before running the script, make sure you have the following installed:
 
 Install the required packages using:
 
-```bash
-pip install pandas nltk scikit-learn matplotlib seaborn
 **Getting Started**
 
 1. Clone the repository or download the script file (sentiment_analysis.py).
@@ -33,6 +31,10 @@ The script generates visualizations of actual and predicted sentiment distributi
 
 **Author**
 Sujal Surve
+
+
+```bash
+pip install pandas nltk scikit-learn matplotlib seaborn
 
 **License**
 This project is licensed under the MIT License.4
