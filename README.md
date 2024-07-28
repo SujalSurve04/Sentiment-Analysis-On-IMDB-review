@@ -1,5 +1,5 @@
-# PRODIGY_DS_04
-# Sentiment Analysis with Naive Bayes
+
+# Sentiment Analyzer with Naive Bayes
 
 This project performs sentiment analysis on an IMDB movie reviews dataset using a Naive Bayes classifier. It includes data exploration, preprocessing, model training, and visualization of sentiment distributions.
 
